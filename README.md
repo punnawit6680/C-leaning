@@ -1,0 +1,2 @@
+# C-leaning
+C++ leaning
